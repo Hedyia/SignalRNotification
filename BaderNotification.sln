@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaderNotification", "BaderNotification\BaderNotification.csproj", "{DB8E99C1-29AF-4996-872E-AA7998261233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8E99C1-29AF-4996-872E-AA7998261233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8E99C1-29AF-4996-872E-AA7998261233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8E99C1-29AF-4996-872E-AA7998261233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8E99C1-29AF-4996-872E-AA7998261233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A9B4EDE-4313-4869-AFA6-38693A4A80F1}
+	EndGlobalSection
+EndGlobal
